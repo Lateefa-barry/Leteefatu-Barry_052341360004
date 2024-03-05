@@ -1,0 +1,187 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+
+}
+
+html, body{
+  font-family: Roboto,sans-serif,arial;
+  font-size:16px;
+  color:#242424;
+ 
+}
+.container{
+  width:1300px;
+  margin:0px auto;
+  img{
+    width:0%;
+  }
+}
+
+
+.header{
+    background:#46b7c1;
+    padding:6px;
+
+}
+
+
+
+.main section{
+    width:0%;
+    float:left;
+    padding:70px 0px 70px 0px;
+}
+
+
+
+.header b{
+    background:#fff;
+    color:red;
+    padding:5px;
+    font-size:20px;
+}
+.header marquee{
+    font-size:20px;
+    color:#fff;
+    width:80%;
+}
+
+
+nav{
+    float:right;
+    padding:25px 0px;
+
+}
+
+nav a{
+    color:black;
+    text-decoration:none;
+    font-size:10px;
+    padding:2px 10px;
+    font-weight:500;
+}
+.slider img{
+    width:60%;
+    float:left;
+
+}
+.event{
+    width:32%;
+    margin-right:1%;
+    float:left;
+    background-color:#fff;
+    padding:10px;
+}
+
+.event   .heading{
+    border-bottom:1px solid #46b7c1;
+    padding:5px;
+    color:#fff;
+    background:#46b7c1;
+    text-align:center;
+}
+.event ul li{
+    margin-bottom:20px;
+    width:100%;
+    float:left;
+    list-style:none;
+}
+.event-date{
+    background:#46b4c1;
+    float:left;
+    text-align:center;
+    font-size:14px;
+    color:#fff;
+    padding:8px 12px;
+    margin-right:10px;
+}
+
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.container{
+    width:100px;
+    margin:0px auto;
+}
+
+img{
+     width:50%;
+}
+
+
+.title {
+  color: #555;
+  font-style: italic;
+}
+
+
+  
+body {
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    line-height: 1.6; 
+    margin: 0; 
+    padding: 0;
+     background:#f4f4f4; 
+    } 
+    
+        
+    
+      .timetable {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      .timetable th, .timetable td {
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: center;
+      }
+      .timetable th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+      }
+      .timetable td {
+        font-size: 14px;
+      }
+      .timetable tr:nth-child(even) {
+        background-color: #f9f9f9;
+      }
+      .timetable tr:hover {
+        background-color: #e6e6e6;
+      }
+    
+    
+         body { 
+            font-family: Arial, sans-serif;
+         }
+         
+         
+         form {
+            width: 300px;
+             margin: 0 auto;
+             } 
+             label {
+                 display: block;
+                  margin-top: 10px; 
+                }
+            input[type="text"] { 
+                width: 100%;
+                 padding: 8px;
+                  margin-top: 5px;
+                 } button {
+              margin-top: 20px; 
+              padding: 10px 20px; 
+              background-color: #4CAF50; 
+              color: white;
+            border: none; 
+            cursor: pointer;
+         } 
+         button:hover { opacity: 0.8; }
+            
